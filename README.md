@@ -69,7 +69,7 @@ Hasil evaluasi model dengan menggunakan metode Leave-One-Out Cross Validation (L
 ## Informasi Lebih Lanjut
 Penjelasan lebih rinci tentang program dan implementasinya tersedia di video berikut:
 
-[![Tonton Video](](https://youtu.be/HSU_eW_i7lQ)
+[![Tonton Video]](https://youtu.be/HSU_eW_i7lQ)
 
 ## Tentang Penulis
 **Nama**: Habib Sulaiman  
@@ -80,5 +80,5 @@ Penjelasan lebih rinci tentang program dan implementasinya tersedia di video ber
 ## Kontak
 Untuk pertanyaan atau kolaborasi:
 - Email: Habibsulaiman816@gmail.com
-- LinkedIn: [Profil LinkedIn Anda](https://www.linkedin.com/in/habib-sulaiman/)
-- GitHub: [Profil GitHub Anda](https://github.com/KacangSoya)
+- LinkedIn: [Habib Sulaiman](https://www.linkedin.com/in/habib-sulaiman/)
+- GitHub: [KacangSoya](https://github.com/KacangSoya)
